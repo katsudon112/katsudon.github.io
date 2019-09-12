@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Страница-1" NameU="Page-1">
+			<PageProps>
+				<PageScale Unit="MM">0.039370078740157</PageScale>
+				<DrawingScale Unit="MM">0.039370078740157</DrawingScale>
+			</PageProps>
+			<Layer IX="0">
+				<Name>Блок-схема</Name>
+				<NameUniv>Flowchart</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{4616097B-8CC5-4EB5-8992-BB4CAF8824CE}" Name="Процесс" NameU="Process" Master="2">
+					<XForm>
+						<PinX Unit="MM">2.165354310776828</PinX>
+						<PinY Unit="MM">6.003936955326456</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Стоимость</Label>
+					</Prop>
+					<Prop ID="2" Name="ProcessNumber" NameU="ProcessNumber">
+						<Value></Value>
+						<Label>Номер процесса</Label>
+					</Prop>
+					<Prop ID="3" Name="Owner" NameU="Owner">
+						<Value></Value>
+						<Label>Владелец</Label>
+					</Prop>
+					<Prop ID="4" Name="Function" NameU="Function">
+						<Value></Value>
+						<Label>Функция</Label>
+					</Prop>
+					<Prop ID="5" Name="StartDate" NameU="StartDate">
+						<Value></Value>
+						<Label>Дата начала</Label>
+					</Prop>
+					<Prop ID="6" Name="EndDate" NameU="EndDate">
+						<Value></Value>
+						<Label>Дата окончания</Label>
+					</Prop>
+					<Prop ID="7" Name="Status" NameU="Status">
+						<Value></Value>
+						<Label>Состояние</Label>
+					</Prop>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
